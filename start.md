@@ -7,6 +7,7 @@
 </ul>
 
 <h2>Hva er Git</h2>
+<p>lorem </p>
 
 <h2>Hva er GitHub</h2>
 
