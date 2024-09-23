@@ -3,6 +3,7 @@
 ## Markdown
 
 ### Markdown
+gjøre endringer og sjekke merging
 
 #### Fordeler med Markdown foran HTML(?):
 - Raskere
