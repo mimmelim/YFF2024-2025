@@ -4,6 +4,7 @@
 
 ### Markdown
 gjøre endringer og sjekke merging
+endre enda mer og sjekke...
 
 #### Fordeler med Markdown foran HTML(?):
 - Raskere
