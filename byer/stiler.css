@@ -1,6 +1,26 @@
-   
-img{
-    width: 200px;
+body{
+    background-color: rgb(211, 211, 211);
 }
 
+img, figcaption{
+    width: 400px;
+    
+}
+
+img{
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+p, h2{
+    width: 1000px;
+    margin: auto;
+    padding: 20px;
+    
+}
+
+.flyt{
+    display: flex;
+    flex-wrap: wrap;
+}  
 
