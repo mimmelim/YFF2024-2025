@@ -1,22 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     background-color: rgb(211, 211, 211);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+main, header{
+    width: 80%;
+    margin: auto;
+}
+
+footer{
+    margin: 100px;
 }
 
 img, figcaption{
-    width: 400px;
-    
+    width: 350px;
 }
 
 img{
     border: 2px solid black;
     border-radius: 20px;
+    margin-right: 40px;
+    margin-top: 40px;
 }
 
 p, h2{
-    width: 1000px;
+    width: 80%;
     margin: auto;
-    padding: 20px;
-    
+}
+
+h2{
+    padding-top: 40px ;
+}
+
+h1{
+    padding-top: 30px;
+    font-size: xx-large;
 }
 
 .flyt{
