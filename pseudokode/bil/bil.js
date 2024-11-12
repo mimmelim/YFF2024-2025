@@ -4,6 +4,13 @@ Lag et program som, basert på brukerens alder, gir en tilbakemelding om hen kan
 Kanskje noen bør velge sykkel (7-17 år), trehjulssykkel (2-6 år) eller rullator (over 70 år) i stedet for bil? 
 (Her får du bruk for valgsetning)
 */
+window.onload = oppstart;
+function oppstart(){
+
+}
+function sjekkAlder(){
+
+}
 //deklarere variabler alder
 //dersom alder < 0
     //skriv feilmelding - pos.tall
